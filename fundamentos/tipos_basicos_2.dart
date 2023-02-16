@@ -1,5 +1,5 @@
 void main() {
-  List aprovados = ['Adriano', 'Katrine', 'Leandro', 'Ivan'];
+  List<String> aprovados = ['Adriano', 'Katrine', 'Leandro', 'Ivan'];
   print(aprovados);
   print(aprovados[2]);
   print(aprovados.elementAt(2));
